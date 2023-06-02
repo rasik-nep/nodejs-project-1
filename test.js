@@ -4,3 +4,4 @@ for i in range(10):
 print(hello)
 for i in range(12):
   print(i**2)
+print('hello world')
